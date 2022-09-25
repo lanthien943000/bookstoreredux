@@ -10,6 +10,17 @@
       "title": "Things Fall Apart",
       "year": 1958,
       "id": "8F627C92410"
+    },
+    {
+      "author": "Jorge Luis Borges",
+      "country": "Argentina",
+      "imageLink": "images/ficciones.jpg",
+      "language": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+      "pages": 224,
+      "title": "Ficciones",
+      "year": 1965,
+      "id": "CA9089453811"
     }
   ],
   "books": [

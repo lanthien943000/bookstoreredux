@@ -21,7 +21,7 @@ const BACKEND_API = process.env.REACT_APP_BACKEND_API;
 
 const ReadingPage = () => {
   const navigate = useNavigate();
-  const dispatch = useDispatch;
+  const dispatch = useDispatch();
   const status = useSelector((state) => state.book.status);
   const readinglist = useSelector((state) => state.book.readinglist);
   // eslint-disable-next-line no-unused-vars
